@@ -7,5 +7,6 @@ class Lubbilaerir{
         char ch = str.charAt(0);
         System.out.println(ch);
         
+        
     }
 }
